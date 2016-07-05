@@ -1,0 +1,6 @@
+C:\Users\Jakob\documents\visual studio 2015\Projects\DogFights\DogFights\bin\Debug\DogFights.exe.config
+C:\Users\Jakob\documents\visual studio 2015\Projects\DogFights\DogFights\bin\Debug\DogFights.exe
+C:\Users\Jakob\documents\visual studio 2015\Projects\DogFights\DogFights\bin\Debug\DogFights.pdb
+C:\Users\Jakob\documents\visual studio 2015\Projects\DogFights\DogFights\obj\Debug\DogFights.csprojResolveAssemblyReference.cache
+C:\Users\Jakob\documents\visual studio 2015\Projects\DogFights\DogFights\obj\Debug\DogFights.exe
+C:\Users\Jakob\documents\visual studio 2015\Projects\DogFights\DogFights\obj\Debug\DogFights.pdb
